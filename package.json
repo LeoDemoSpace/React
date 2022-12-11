@@ -4,7 +4,7 @@
   "description": "Website about react",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "react": "^16.9.0",
     "react-redux": "^7.1.1"
   },
